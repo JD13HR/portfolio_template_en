@@ -11,8 +11,8 @@
 }
 
 :root{
---main-color: rgb(22, 255, 115);/*rgb(255, 22, 22);*/
---main2-color: rgb(0, 249, 46);/*rgb(249, 0, 0)*/
+--main-color: rgb(255, 22, 22);/*rgb(22, 255, 115);*/
+--main2-color: rgb(249, 0, 0); /*rgb(0, 249, 46);*/
 --body-color: rgb(18, 18, 18);
 --container-color: rgb(10, 10, 10);
 --heading-color: rgb(47, 47, 47);
